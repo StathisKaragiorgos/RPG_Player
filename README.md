@@ -1,1 +1,1 @@
-# Java-Excercises
+This Java program creates a player for a simple RPG. The user enters the character's name, and the program rolls dice to generate four main attributes: Strength, Agility, Dexterity, and Intelligence. It then displays all stats clearly and suggests a suitable character class (Barbarian, Assassin, Mage, or Tank) based on the highest attribute. This project was completed as an assignment for ΣΑΕΚ. It's a fun tool for basic character creation and experimenting with random values.
